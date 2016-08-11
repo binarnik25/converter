@@ -14,7 +14,7 @@ In addition, there is a class `ExchangeRateConverter` to handle conversion of a 
 
 ``ExchangeRateConverter.convert(100, '2013-­01-­13')``
 
-returns what 120 USD was in euros on January 13, 2013.
+returns what 100 USD was in euros on January 13, 2013.
 
 Finally, the app is a subject of testing. Using RSpec, you can run tests in `spec` folder.
 
